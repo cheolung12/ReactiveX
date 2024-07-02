@@ -1,0 +1,16 @@
+// 산수
+count
+max
+min
+reduce
+
+// 선택
+first
+last
+elementAt
+filter
+distinct
+
++ tap
+통과되는 모든 값마다 특정 작업을 수행
+⭐️ 발행 결과에 영향을 주지 않음 (디버깅 용도)
